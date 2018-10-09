@@ -1,5 +1,9 @@
 # openAI-gym-taxi2
 
+### Install requirements
+```
+pip install -r requirements.txt
+```
 
 ### Train with Expected SARSA [2] and let the agent play:
 ```
